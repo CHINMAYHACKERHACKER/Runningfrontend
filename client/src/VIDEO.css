@@ -1,0 +1,34 @@
+.video,
+.text {
+    flex: 1;
+}
+
+P {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.user-img {
+    border-radius: 50%;
+    width: 30px;
+    /* Adjust the width as desired */
+    height: 30px;
+    /* Adjust the height as desired */
+    object-fit: cover;
+    float: left;
+    margin-right: 20px;
+}
+
+
+h5 {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+.VIDEOBACKGROUND {
+    background-image: url('dark-black-background-design-with-stripes_1017-38064.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100050px;
+}
